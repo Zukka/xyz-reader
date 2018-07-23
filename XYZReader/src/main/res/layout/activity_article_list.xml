@@ -24,9 +24,10 @@
     <FrameLayout
         android:id="@+id/toolbar_container"
         android:layout_width="match_parent"
-        android:layout_height="112dp"
+        android:layout_height="80dp"
         android:background="?colorPrimary"
-        android:elevation="8dp">
+        android:elevation="4dp"
+        android:paddingBottom="16dp">
 
         <android.support.v7.widget.Toolbar
             android:id="@+id/toolbar"

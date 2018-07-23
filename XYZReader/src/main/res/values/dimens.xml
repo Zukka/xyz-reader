@@ -7,5 +7,11 @@
     <dimen name="fab_elevation">2dp</dimen>
     <dimen name="fab_press_translation_z">6dp</dimen>
     <dimen name="fab_margin">24dp</dimen>
+    <dimen name="photo_height">304dp</dimen>
+    <dimen name="detail_view_height">112dp</dimen>
+    <dimen name="card_view_margin">4dp</dimen>
 
+    <dimen name="text_view_padding_top">16dp</dimen>
+    <dimen name="text_view_padding_bottom">4dp</dimen>
+    <dimen name="text_view_padding_horizontal">16dp</dimen>
 </resources>
